@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BspLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="a2" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="file:/$PROJECT_DIR$/../../Desktop%20Copy/a2/#a2/Compile" />
+                <option name="path" value="C:\Desktop Copy\a2" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="file:/$PROJECT_DIR$/../../Desktop%20Copy/a2/#a2-build" />
+                <option name="path" value="C:\Desktop Copy\a2" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="BspTargetCanCompile">
+    <option name="compilableTargets">
+      <list>
+        <option value="file:/$PROJECT_DIR$/../../Desktop%20Copy/a2/#a2/Compile" />
+        <option value="file:/$PROJECT_DIR$/../../Desktop%20Copy/a2/#a2/Test" />
+      </list>
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc4a3e56-62d3-47b0-a299-a9abb350f803" name="Changes" comment="yes">
+      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git show" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/a2/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0a5aadc4cd84b171e20a$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0a5aadc4cd84b171e20a.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$0a5aadc4cd84b171e20a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$63bb24abae268445f161$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$63bb24abae268445f161.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$63bb24abae268445f161.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$0ab26cad940a18141102$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$0ab26cad940a18141102.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$0ab26cad940a18141102.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$43b78df14ffe95da43c5$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$43b78df14ffe95da43c5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$43b78df14ffe95da43c5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6fbf3ebc727e30b5407a$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6fbf3ebc727e30b5407a.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6fbf3ebc727e30b5407a.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/sync/copy-resource" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/scalaCompilerBridgeScope/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/bspReporter/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ASyn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/AddLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Alive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ArrayEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ArrayTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/BufferStringInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Butterfly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Cal_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Calci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CheckTriangleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Class_Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CompareString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ConditionIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ConstructorAl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Divisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Divisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ElectricityBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Eligible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Emp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Emp4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ExFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Exception123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ExceptionNested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ExplictType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/FactRecr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Facto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Factorial1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Fibonacii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Final_meth2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Final_ver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Forjava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/GRADE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/HalfCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Height.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/HollowR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Htriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/HyInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Hybrid_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Implicittype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Inheritance1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/InterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/InterDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/JoinThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LoopLogic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LowerTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MulH1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MulInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/OuterInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/OuterInner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Poly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PolyArryMethOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PolyC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PrimitiveToWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PrintStar4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PrintTen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/RGB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/RevDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ReverseStringwithoutFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Staticvariable_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StingBuilderReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/String2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StringBuferrS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StringBuilder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StringBuilderReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StringConc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StringEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StringL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StringN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StringScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StringU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Student3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SumofEO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SumofNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Syn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TRY_CATCH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ThreadR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ThrowEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ThrowsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TwoDASUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log10375558059618999801.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log10452544136246638088.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log10518112873750018741.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log12261134814682164373.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log13984941347795771750.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log17630844052995796252.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log17871684875442588718.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log18111158367762710776.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log2234030686933222813.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log2746899926394832794.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log386109907477266863.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log6637423849176944961.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/global-logging/sbt-global-log9300435595430179483.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ASCI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ASyn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Abstraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/AdvanceCal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Alive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Annonymous.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Array1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ArrayEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ArrayOp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ArrayOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ArrayProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ArrayProvider1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ArraySumCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ArrayTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Average.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/BufferStringInsert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Butterfly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/C1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/C11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/C2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Cal1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Cal_Inheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Calci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Calci1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Calci2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Calculator1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/CheckTriangleType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Class_Object.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/CompareString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Con1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ConditionIf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Constants1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Demo11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/DiagonalZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Divisible.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Divisor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ElectricityBill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Eligible.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Emp3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Emp4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Emp_Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Even.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/EvenOdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Ex1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Ex2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ExFinally.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Exception123.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ExceptionNested.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ExplictType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Fact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/FactRecr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Facto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Factorial1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Fibo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Fibo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Fibonacii.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Final_meth2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Final_method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Final_ver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/First1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/First12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/For2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Forjava8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/GC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/GP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/GRADE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Halffaultycal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Height.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/HollowR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Htriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/HyInheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Hybrid_Inheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Implicittype.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Inheritance1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/InterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/InterDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/InterDemo11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Interface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/JoinThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Lambda1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/LoopLogic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/LoopLogic1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/LowerTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Main1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/MainThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Marks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/MulH1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/MulIn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/MulInheritance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/OuterInner$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/OuterInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/OuterInner1$Inner1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/OuterInner1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/P.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/P1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/PStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Parent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Pattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/PatternStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Poly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/PolyArryMethOver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/PolyC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/PrimitiveToWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/PrintStar4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/PrintTen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/RGB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/RevDiagonal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ReverseStringwithoutFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Salary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Second.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StaticDemo$Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StaticDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Staticvariable_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StingBuilderReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/String1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/String2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringBuferrS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringBuilder1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringBuilderReplace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringConc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringContains.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringEqual.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringScan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/StringU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Student1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Student3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SumArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SumofEO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/SumofNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Swap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Switch1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Switch2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Syn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/TRY_CATCH.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Temp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Test11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Third.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ThreadR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ThrowEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/ThrowsEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/TwoDASUM.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/TwoDArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Weekdays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/arr1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/arr2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/arr3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/bike.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/dowhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/if_st.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/q/Main$$typecreator6$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/q/Main$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/q/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/sec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/sec1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/sum1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/swith3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/whileLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/whileR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/classes/while_loop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/csrProject/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivyConfiguration/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/ivySbt/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/moduleSettings/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/scalacOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/_global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/a2-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/a2-build.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="BSP">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="a2" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="a2" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Main10" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sajid041288&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sajid041288/java6.git&quot;,
+    &quot;accountId&quot;: &quot;dcfd51b3-5b65-43b7-8bfc-47345a6c47ee&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ws4pohWgDqeZcvXp73Cerd0yxb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ASCI.executor": "Run",
+    "Application.ASyn.executor": "Run",
+    "Application.Abstraction.executor": "Run",
+    "Application.Add.executor": "Run",
+    "Application.AddLambda1.executor": "Run",
+    "Application.Alive.executor": "Run",
+    "Application.Annonymous.executor": "Run",
+    "Application.Array1.executor": "Run",
+    "Application.ArrayEx.executor": "Run",
+    "Application.ArrayTriangle.executor": "Run",
+    "Application.Average.executor": "Run",
+    "Application.BufferString.executor": "Run",
+    "Application.BufferStringInsert.executor": "Run",
+    "Application.Butterfly.executor": "Run",
+    "Application.Cal1.executor": "Run",
+    "Application.Cal_Inheritance.executor": "Run",
+    "Application.Calci.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CheckTriangleType.executor": "Run",
+    "Application.Class_Object.executor": "Run",
+    "Application.CompareString.executor": "Run",
+    "Application.Con1.executor": "Run",
+    "Application.ConditionIf.executor": "Run",
+    "Application.Constants.executor": "Run",
+    "Application.DiagonalZero.executor": "Run",
+    "Application.Divisible.executor": "Run",
+    "Application.Divisor.executor": "Run",
+    "Application.ElectricityBill.executor": "Run",
+    "Application.Eligible.executor": "Run",
+    "Application.Emp.executor": "Run",
+    "Application.Emp2.executor": "Run",
+    "Application.Emp3.executor": "Run",
+    "Application.Emp4.executor": "Run",
+    "Application.Even.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
+    "Application.Ex1.executor": "Run",
+    "Application.Ex2.executor": "Run",
+    "Application.ExFinally.executor": "Run",
+    "Application.Exception123.executor": "Run",
+    "Application.ExceptionNested.executor": "Run",
+    "Application.ExplictType.executor": "Run",
+    "Application.FAct.executor": "Run",
+    "Application.Fact.executor": "Run",
+    "Application.FactRecr.executor": "Run",
+    "Application.Facto.executor": "Run",
+    "Application.Factorial1.executor": "Run",
+    "Application.Fibonacii.executor": "Run",
+    "Application.Final_meth2.executor": "Run",
+    "Application.Final_method.executor": "Run",
+    "Application.Final_ver.executor": "Run",
+    "Application.For2.executor": "Run",
+    "Application.Forjava8.executor": "Run",
+    "Application.GC.executor": "Run",
+    "Application.GRADE.executor": "Run",
+    "Application.Halffaultycal.executor": "Run",
+    "Application.Height.executor": "Run",
+    "Application.Hello.executor": "Run",
+    "Application.HollowR.executor": "Run",
+    "Application.Htriangle.executor": "Run",
+    "Application.HyInheritance.executor": "Run",
+    "Application.Hybrid_Inheritance.executor": "Run",
+    "Application.Implicittype.executor": "Run",
+    "Application.Inheritance1.executor": "Run",
+    "Application.Interface.executor": "Run",
+    "Application.JoinThread (1).executor": "Run",
+    "Application.JoinThread.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LoopLogic.executor": "Run",
+    "Application.LoopLogic1.executor": "Run",
+    "Application.LowerTriangle.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.MainThread.executor": "Run",
+    "Application.Marks.executor": "Run",
+    "Application.MulH1.executor": "Run",
+    "Application.MulInheritance.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.OuterInner.executor": "Run",
+    "Application.OuterInner1.executor": "Run",
+    "Application.PStar.executor": "Run",
+    "Application.Pattern.executor": "Run",
+    "Application.PatternStar.executor": "Run",
+    "Application.Poly.executor": "Run",
+    "Application.PolyC.executor": "Run",
+    "Application.PrimitiveToWrapper.executor": "Run",
+    "Application.PrintStar4.executor": "Run",
+    "Application.PrintTen.executor": "Run",
+    "Application.RGB.executor": "Run",
+    "Application.RevDiagonal.executor": "Run",
+    "Application.ReverseStringwithoutFunction.executor": "Run",
+    "Application.Salary.executor": "Run",
+    "Application.Staticvariable_1.executor": "Run",
+    "Application.StingBuilderReverse.executor": "Run",
+    "Application.String1.executor": "Run",
+    "Application.String2.executor": "Run",
+    "Application.StringBuferrS.executor": "Run",
+    "Application.StringBuilder1.executor": "Run",
+    "Application.StringBuilderReplace.executor": "Run",
+    "Application.StringConc.executor": "Run",
+    "Application.StringContains.executor": "Run",
+    "Application.StringEqual.executor": "Run",
+    "Application.StringL.executor": "Run",
+    "Application.StringN.executor": "Run",
+    "Application.StringScan.executor": "Run",
+    "Application.StringU.executor": "Run",
+    "Application.Student1.executor": "Run",
+    "Application.Student3.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.SumArray.executor": "Run",
+    "Application.SumofEO.executor": "Run",
+    "Application.SumofNumber.executor": "Run",
+    "Application.Swap.executor": "Run",
+    "Application.Switch1.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.Syn.executor": "Run",
+    "Application.TRY_CATCH.executor": "Run",
+    "Application.Temp.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.Test11.executor": "Run",
+    "Application.ThreadR.executor": "Run",
+    "Application.ThrowEx.executor": "Run",
+    "Application.ThrowsEx.executor": "Run",
+    "Application.TwoDASUM.executor": "Run",
+    "Application.TwoDArray.executor": "Run",
+    "Application.Vowel.executor": "Run",
+    "Application.Weekdays.executor": "Run",
+    "Application.dowhile.executor": "Run",
+    "Application.if_st.executor": "Run",
+    "Application.sum1.executor": "Run",
+    "Application.swith3.executor": "Run",
+    "Application.whileLoop.executor": "Run",
+    "Application.whileR.executor": "Run",
+    "Application.while_loop.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "h1",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Desktop Copy/a2",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.1150748",
+    "settings.editor.selected.configurable": "bsp.project.settings.configurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Syn">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="3764294a-7652-4905-858e-3dac80b192d0" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ASyn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ASyn" />
+      <module name="a2.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Alive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Alive" />
+      <module name="a2.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinThread (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JoinThread" />
+      <module name="a2.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JoinThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JavaCore.JoinThread" />
+      <module name="a2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.JavaCore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Syn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Syn" />
+      <module name="a2.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Syn" />
+        <item itemvalue="Application.ASyn" />
+        <item itemvalue="Application.JoinThread (1)" />
+        <item itemvalue="Application.JoinThread" />
+        <item itemvalue="Application.Alive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="migrateConfigurationsNotificationShown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc4a3e56-62d3-47b0-a299-a9abb350f803" name="Changes" comment="" />
+      <created>1746817135023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746817135023</updated>
+    </task>
+    <task id="LOCAL-00001" summary="D1">
+      <option name="closed" value="true" />
+      <created>1750094616175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750094616175</updated>
+    </task>
+    <task id="LOCAL-00002" summary="D2">
+      <option name="closed" value="true" />
+      <created>1750098447506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750098447506</updated>
+    </task>
+    <task id="LOCAL-00003" summary="D2">
+      <option name="closed" value="true" />
+      <created>1750613997013</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750613997013</updated>
+    </task>
+    <task id="LOCAL-00004" summary="D2">
+      <option name="closed" value="true" />
+      <created>1755207639078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755207639079</updated>
+    </task>
+    <task id="LOCAL-00005" summary="D2">
+      <option name="closed" value="true" />
+      <created>1755208428320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755208428320</updated>
+    </task>
+    <task id="LOCAL-00006" summary="D2">
+      <option name="closed" value="true" />
+      <created>1755209019716</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755209019716</updated>
+    </task>
+    <task id="LOCAL-00007" summary="D2">
+      <option name="closed" value="true" />
+      <created>1755210285927</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755210285927</updated>
+    </task>
+    <task id="LOCAL-00008" summary="D2">
+      <option name="closed" value="true" />
+      <created>1755215918979</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755215918979</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="$PROJECT_DIR$" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Main10" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="D1" />
+    <MESSAGE value="D2" />
+    <MESSAGE value="done" />
+    <MESSAGE value="yes" />
+    <option name="LAST_COMMIT_MESSAGE" value="yes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/scala/Salary.java</url>
+          <line>3</line>
+          <properties class="Salary" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
+          <line>1</line>
+          <properties class="Scratch" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/scala/Even.java</url>
+          <line>3</line>
+          <properties class="Even" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/scala/Facto.java</url>
+          <line>3</line>
+          <properties class="Facto" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
